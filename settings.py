@@ -1,0 +1,10 @@
+# define window size & frames per second
+WINDOW_WIDTH = 1920
+WINDOW_HEIGHT = 1250
+FRAMES_PER_SECOND = 60
+
+SCENE_HEIGHT = 1080
+
+BLACK = (0, 0, 0)
+GRAY = (128, 128, 128)
+WHITE = (255, 255, 255)
